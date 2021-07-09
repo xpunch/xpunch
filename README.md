@@ -5,6 +5,6 @@
 ### My Organizations
 [X Punch(https://github.com/x-punch)](https://github.com/x-punch)
 
-[X Community(https://github.com/x-community/x-community)](https://github.com/x-community)
+[X Community(https://github.com/x-community)](https://github.com/x-community)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpunch&hide=less,C%23,TypeScript&layout=compact)
