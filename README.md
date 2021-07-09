@@ -7,4 +7,4 @@
 
 [X Community(https://github.com/x-community)](https://github.com/x-community)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpunch&hide=less,C%23,TypeScript&layout=compact)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=xpunch&hide=less,css&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
