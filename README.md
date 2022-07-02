@@ -2,4 +2,4 @@
 
 ![GitHub stats](https://github-readme-stats-xpunch.vercel.app/api?username=xpunch&show_icons=true&theme=radical&count_private=true&hide_title=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
-![Top Langs](https://github-readme-stats-xpunch.vercel.app/api/top-langs/?username=xpunch&hide=less,css&layout=compact&theme=radical&count_private=true&hide_title=true&&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Top Langs](https://github-readme-stats-xpunch.vercel.app/api/top-langs/?username=xpunch&hide=less,css,HTML&layout=compact&theme=radical&count_private=true&langs_count=6&hide_title=true&&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
